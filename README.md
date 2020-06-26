@@ -1,3 +1,13 @@
+## SCREENSHOT DEMO
+## HOME
+![Home](https://user-images.githubusercontent.com/42530153/85820099-b99d5380-b79f-11ea-9a12-05e748554343.png)
+
+## ADD EVENT
+![Add Event](https://user-images.githubusercontent.com/42530153/85820150-d46fc800-b79f-11ea-8119-54482114fa7a.png)
+
+## DASHBOARD USER
+![Dashboard User](https://user-images.githubusercontent.com/42530153/85820181-e2bde400-b79f-11ea-9456-b2fc044e376d.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
