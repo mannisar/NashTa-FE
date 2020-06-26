@@ -1,0 +1,4 @@
+{
+    "/events/create": "/events",
+    "/events/read": "/events"
+}
